@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersetch",
+        "uuid": 16203168,
+        "checksum": "bkptd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
